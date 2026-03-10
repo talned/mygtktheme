@@ -11,7 +11,7 @@
 Download black theme:
 
 ```sh
-sudo bash install.sh -t default -c dark -s standard -l --tweaks black rimless
+sudo bash install.sh -c dark -s standard -l --tweaks black rimless
 ```
 
 ### Uninstall theme
